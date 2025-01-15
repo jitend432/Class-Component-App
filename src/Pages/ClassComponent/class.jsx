@@ -13,7 +13,7 @@ class ven extends Component {
     }
 
     handleClick = (e) => {
-        this.setState({name:"Pagal Ho Kya be",
+        this.setState({name:"Its a class component",
                      count : this.state.count + 1
         })
         console.log("Log : ", e)
