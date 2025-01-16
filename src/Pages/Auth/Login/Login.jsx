@@ -9,7 +9,7 @@ export default function Login() {
             <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt=""></img>
         </div>
         <div class="text-center mt-4 name">
-            TRex Zone
+            T-Rex Zone
         </div>
         <form class="p-3 mt-3">
             <div class="form-field d-flex align-items-center">
